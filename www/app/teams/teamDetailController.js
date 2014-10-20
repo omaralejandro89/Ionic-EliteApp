@@ -5,7 +5,7 @@
     'use strict';
 
     angular
-        .module('EliteApp')
+        .module('app.teams')
         .controller('TeamDetailController', [ '$stateParams', TeamDetailController]);
 
 

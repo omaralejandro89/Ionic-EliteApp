@@ -5,7 +5,9 @@
     'use strict';
 
     angular.module('EliteApp', [
-        'app.core'
+        'app.core',
+        //Features
+        'app.teams'
     ]);
 
 
