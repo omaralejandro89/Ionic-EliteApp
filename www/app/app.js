@@ -12,6 +12,7 @@
         'app.home',
         'app.teams',
         'app.standings',
+        'app.games',
         'app.locations',
         'app.teams'
     ]);
