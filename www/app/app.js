@@ -6,7 +6,11 @@
 
     angular.module('EliteApp', [
         'app.core',
+        //Services
+        'app.common',
         //Features
+        'app.home',
+        'app.locations',
         'app.teams'
     ]);
 
