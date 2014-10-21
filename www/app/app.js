@@ -10,6 +10,8 @@
         'app.common',
         //Features
         'app.home',
+        'app.teams',
+        'app.standings',
         'app.locations',
         'app.teams'
     ]);
